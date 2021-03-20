@@ -6,7 +6,7 @@ Clicking the poster image of any of the title triggers trailer display.
 
 ## Live link
 
-Click [here]() to access the live site
+Click [here](https://korhan-netflix-clone.herokuapp.com/) to access the live site
 
 ## Used Modules
 
